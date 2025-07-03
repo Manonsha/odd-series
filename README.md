@@ -29,21 +29,3 @@ Iterates from 1 to n, stepping by 2, ensuring only odd numbers are considered.
 Prints each odd number on a new line.
 
 Includes input validation to ensure n is positive.
-
-✅ Improvements
-Small and efficient: no unnecessary modulus checks.
-
-Safe: handles non-positive inputs gracefully and closes the scanner.
-
-Clean code: follows Java conventions and logical structure.
-
-🤝 Contributing
-Contributions are welcome! Whether it's refactoring for readability, adding unit tests, or extending functionality:
-
-Fork the repository.
-
-Create a feature branch (e.g. feature/add-tests).
-
-Commit your changes.
-
-Open a pull request detailing your improvements.
